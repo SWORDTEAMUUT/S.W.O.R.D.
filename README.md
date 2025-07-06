@@ -20,6 +20,7 @@
 
 ## Features
 
+-
 - Dark Theme
 - Localized UI language
 - Pinned Posts on Home Page
